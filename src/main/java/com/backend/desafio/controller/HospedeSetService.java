@@ -21,7 +21,6 @@ public class HospedeSetService {
     @RequestMapping(method = RequestMethod.POST)
     public ResponseEntity create(@RequestBody Hospede hospede) throws JsonProcessingException {
 
-
         try {
             repository.save(hospede);
         }catch (Exception e){

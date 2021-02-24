@@ -2,7 +2,8 @@
 
 ## Dependências
 
-Dependências do maven são normalmente baixadas
+As dependências nessessárias estão no arquivo pom.xml 
+e são normalmente baixadas
 automaticamente pela IDE
 
 ## Rodar a aplicação
